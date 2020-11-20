@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="category_bg">#F0F0F0</color>
+    <color name="bold_text_color">#282637</color>
+    <color name="edit_text_bg_color">#FAFAFA</color>
+    <color name="edit_text_border_color">#EAEAEA</color>
 </resources>
